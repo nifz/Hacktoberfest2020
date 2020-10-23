@@ -6,11 +6,11 @@ How to contribute?.<br />
 
 1.Fork this repo and give it a star.<br />
 
-2.Generate and get idea by making pull requests to this repo and complete Hacktoberfest 2020. <br />
+2.Generate and get idea by making a pull requests to this repo and complete Hacktoberfest 2020. <br />
 
 People who finished Hacktoberfest'20 using this repository. <br />
 
-Add your name here, and learn how to edit README.md. <br />
+Add your name here, and learn how to edit files README.md. <br />
 
 Atyant Yadav <br />
 Arush Saxena <br />
@@ -81,3 +81,4 @@ Hritik<br/>
 N. Ikhwan<br/>
 Suraj Kumar <br/>
 Dviti <br/>
+nifz <br/>
